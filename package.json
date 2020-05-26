@@ -1,5 +1,5 @@
 {
-  "name": "fullscreenbookblock",
+  "name": "@gui1998/fullscreenbookblock",
   "version": "1.0.0",
   "description": "FullscreenBookBlock",
   "main": "index.js",
@@ -8,12 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gui1998/FullscreenBookBlock.git"
+    "url": "https://github.com/gui1998/FullscreenBookBlock.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gui1998/FullscreenBookBlock/issues"
   },
-  "homepage": "https://github.com/gui1998/FullscreenBookBlock#readme"
+  "homepage": "https://github.com/gui1998/FullscreenBookBlock#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  
 }
